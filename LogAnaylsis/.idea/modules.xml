@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LogAnaylsis.iml" filepath="$PROJECT_DIR$/LogAnaylsis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analysis/analysis.iml" filepath="$PROJECT_DIR$/analysis/analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anaylsis/anaylsis.iml" filepath="$PROJECT_DIR$/anaylsis/anaylsis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collector/collector.iml" filepath="$PROJECT_DIR$/collector/collector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collector/flume/flume.iml" filepath="$PROJECT_DIR$/collector/flume/flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analysis/hive/hive.iml" filepath="$PROJECT_DIR$/analysis/hive/hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analysis/spark/spark.iml" filepath="$PROJECT_DIR$/analysis/spark/spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collector/sqoop/sqoop.iml" filepath="$PROJECT_DIR$/collector/sqoop/sqoop.iml" />
+    </modules>
+  </component>
+</project>
