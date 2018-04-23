@@ -11,5 +11,4 @@
         <module>collector</module>
         <module>analysis</module>
     </modules>
-	
 </project>
